@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nyagajms.nyagajms&" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nyagajms.nyagajms&" />
   <img align="right" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>
 
