@@ -1,7 +1,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nyagajms.nyagajms&" />
-  <img align="right" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>
 
 <img align="center" height="200" width="400" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif">
