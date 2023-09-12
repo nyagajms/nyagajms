@@ -19,14 +19,13 @@
 
 <div align="center">
 
-🔭 I’m working as software engineer<br>- 📚 I'm currently learning  SOFTWARE ENGINEERING<br>- ⚡ In my free time I  work on my promising personal projects</p>
- 🔭 I’m currently working on **a chat app**
+
+ 🔭 I’m currently working on **a robot**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **software engineering**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ ⚡ **In my free time I  work on my promising personal projects**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
  
