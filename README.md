@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nyagajms.nyagajms&" />
+<img align="left"  height="200"  width="400" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif"> 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James+Nyaga!;" />
@@ -74,13 +75,8 @@
 
 
 ########################
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nyagajms.nyagajms&"  />
-</div>
 
 
-
-<img align="left"  height="200"  width="400" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif"> 
   <img align="right"   width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
