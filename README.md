@@ -16,9 +16,10 @@
 
 <br/>
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 <div align="center">
- 
+ <h3 align="left">👩‍💻  About Me</h3>
+  
  🔭 I’m currently working on **a chat app**
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
