@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif">
+<img align="center" alt="Coding" width="300" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
