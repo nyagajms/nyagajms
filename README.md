@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<img align="center"  height="150" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif">
+<img align="center"  height="150"  width="150" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif">
 
 
 <div align="center">
