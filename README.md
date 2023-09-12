@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="150" src="![image](https://github.com/nyagajms/nyagajms/assets/122010077/65b8375f-e84a-4a0d-a56b-c24f478de6c7)
-"  />
+  <img height="150" 
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 </div>
 
 ###
