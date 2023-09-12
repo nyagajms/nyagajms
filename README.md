@@ -16,6 +16,7 @@
 
 <br/>
 
+<h3 align="left">👩‍💻  About Me</h3>
 <div align="center">
  
  🔭 I’m currently working on **a chat app**
