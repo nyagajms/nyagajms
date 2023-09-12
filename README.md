@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/nyaga.jms/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
-  <a href="https://discordapp.com/users/nyagajms" target="_blank">
+  <a href="https://discord.gg/SscAVEUh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
 </div>
