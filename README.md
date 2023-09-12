@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  
+🔭 I’m working as software engineer<br>- 📚 I'm currently learning  SOFTWARE ENGINEERING<br>- ⚡ In my free time I  work on my promising personal projects</p>
  🔭 I’m currently working on **a chat app**
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
