@@ -1,9 +1,4 @@
-<div align="center">
-  <img height="150" 
-src="![image](https://github.com/nyagajms/nyagajms/assets/122010077/151510fa-dbf3-4a3c-bc8f-57d4d6bb2a10)
-
-"
-</div>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/x0PBTXM6LrAAAAAC/banner-gif-welcome.gif">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
